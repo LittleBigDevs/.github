@@ -1,6 +1,9 @@
 # LittleBigDevs
 A small organization that makes open source projects
 
+> [!WARNING]
+> Updates on our projects are occasional! We only do updates if needed and to make the software better.
+
 # Developers
 
 <a href="https://github.com/dxamima">
