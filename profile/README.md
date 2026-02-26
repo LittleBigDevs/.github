@@ -1,9 +1,6 @@
 # LittleBigDevs
 A small organization that makes open source projects
 
-> [!NOTE]
-> Moved to https://git.korone.one/LittleBigDevs/Jonfield-Korone-Apks
-
 # Developers
 
 <a href="https://github.com/dxamima">
